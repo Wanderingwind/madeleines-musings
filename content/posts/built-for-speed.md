@@ -1,6 +1,6 @@
 ---
 title: Built For Speed Buzz
-subtitle: Awake is Built to Be Blazing Fast
+subtitle: Awake is Built to Be Blazing Fast Derp
 category:
   - About Awake
 author: Daniel Kelly
